@@ -1,4 +1,3 @@
-alert('Привет друг!)\nЯ очень стараюсь на курсе, и отдаю на это всё своё время. Но этого не достаточно. Был бы очень тебе благодарен, если бы ты дал мне немного времени, и мы бы обсудили это в discord.\nХорошего дня! =)');
 //Document is the DOM can be accessed in the console with document.window.
 // Tree is from the top, html, body, p etc.
 
